@@ -1,6 +1,3 @@
-Here’s an updated README.md for your Simple Todo App:
-
----
 
 # Simple Todo App
 
@@ -54,6 +51,4 @@ CREATE TABLE IF NOT EXISTS task (
 
 MIT
 
----
 
-Let me know if you want further customization or usage instructions!
