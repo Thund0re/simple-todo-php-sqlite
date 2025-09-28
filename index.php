@@ -10,7 +10,6 @@
   <!-- Fonts END -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-  <link rel="icon" type="image/png" sizes="32x32" href="/signalstrader/assets/pages/img/favicon/favicon-32x32.png">
   <link rel="stylesheet" type="text/css" href="./css/todo.css" />
 
   <style>
@@ -22,7 +21,7 @@
 
 <body>
   <p>
-  <a class="heading" href="/signalstrader/" style="font-size:3rem"><i class="fas fa-home"></i><u>Home</u></a>
+  <a class="heading" href="/" style="font-size:3rem"><i class="fas fa-home"></i><u>Home</u></a>
   <p></p>
   <p>
 
@@ -86,3 +85,4 @@
 </body>
 
 </html>
+
